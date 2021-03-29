@@ -1,5 +1,5 @@
 module.exports = [
-    {
+  {
     "id": 1,
     "first_name": "Bart",
     "last_name": "Simpsons",
